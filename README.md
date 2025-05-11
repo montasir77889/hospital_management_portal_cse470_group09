@@ -14,6 +14,15 @@ Manage medicine  routes.models medicine.js
 Blood bank-Blood Donor,Blood recipient,Blood Availabity,Blood info(Frontend+Backend)
 Patient login+signup(Frontend+Backend)
 
+22101567(Mohammad Rafsanul Kabir Rudro):
+ManageUsers for doctor and patient(Frontend)
+DoctorDetails(Front+Backend)
+Homebutton(Frontend)
+Book a Ward(Front+Backend)
+PatientProfile(Front+Backend)
+About(Backend)
+
+
 Project:
 https://drive.google.com/file/d/1jyxR2IptfshSAg_8D3ziPy_PmRVHNabn/view?usp=drive_link
 Demonstration Videos:
